@@ -1,5 +1,4 @@
 ---
-
 # Full-Stack Booking App
 
 Welcome to the Full-Stack Booking App! This application is designed to streamline the booking process, providing a seamless experience for both users and administrators. The app is divided into two main components: the server-side API and the client-side React app.
