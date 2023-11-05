@@ -18,8 +18,6 @@ Welcome to the Full-Stack Booking App, where we've simplified the booking proces
 - **User-Friendly Interface:** Our app offers an intuitive booking experience.
 - **Real-Time Availability:** Stay up-to-date with live scheduling.
 - **User Authentication:** Secure booking with user accounts.
-- **Administrator Dashboard:** Manage bookings with ease.
-- **Integrated Notifications:** Keep customers informed.
 - **Responsive Design:** Works seamlessly on both mobile and desktop.
 
 ## Technologies Used
