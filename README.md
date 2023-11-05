@@ -1,90 +1,102 @@
----
+```markdown
 # Full-Stack Booking App
 
-Welcome to the Full-Stack Booking App! This application is designed to streamline the booking process, providing a seamless experience for both users and administrators. The app is divided into two main components: the server-side API and the client-side React app.
+Welcome to the Full-Stack Booking App! This application is designed to provide a seamless booking experience for your business. Whether you are a restaurant, salon, or any service provider, our app allows your customers to book appointments with ease.
+
 
 ## Table of Contents
 
-- [Overview](#overview)
 - [Features](#features)
-- [Folder Structure](#folder-structure)
-- [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Setup and Usage](#setup-and-usage)
+- [API Documentation](#api-documentation)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Overview
-
-The Full-Stack Booking App is built using Node.js for the server-side logic and React.js for the front-end. It allows users to book appointments, events, or reservations effortlessly while providing administrators with powerful tools to manage bookings and user interactions.
-
 ## Features
 
-- User-friendly booking system.
+- User-friendly booking interface.
+- Real-time availability and scheduling.
+- User authentication for secure booking.
 - Administrator dashboard for managing bookings.
-- Secure authentication and authorization.
-- Interactive user interface.
-- Real-time updates and notifications.
+- Integrated notification system.
+- Responsive design for mobile and desktop.
 
-## Folder Structure
+## Technologies Used
 
-The project consists of two main folders:
+The project is built using the following technologies:
 
-1. **API**: This folder contains all the server-side logic developed using Node.js. It includes the server setup, API routes, database connections, and authentication. You can find the API code in the [API Folder](./api).
+- **Front-End:** React.js
+- **Back-End:** Node.js with Express.js
+- **Database:** MongoDB
+- **Authentication:** JSON Web Tokens (JWT)
+- **Styling:** CSS, 
+- **Version Control:** Git and GitHub
 
-2. **Client**: The React.js app for the front-end is located in this folder. It offers an engaging user interface for booking appointments and interacting with the system. Explore the [Client Folder](./client) for the React app.
+## Setup and Usage
 
-## Getting Started
+### Prerequisites
 
-Follow the steps below to get started with the Full-Stack Booking App:
+- Node.js and npm installed.
+- MongoDB installed and running.
 
 ### Installation
 
 1. Clone this repository:
 
-   ```bash
+   ```shell
    git clone https://github.com/Mohd-Rihan-Ali/full-stack-booking-app.git
    ```
 
-2. Navigate to the project directory:
+2. Navigate to the 'api' folder:
 
-   ```bash
-   cd full-stack-booking-app
+   ```shell
+   cd api
    ```
 
-3. Install the dependencies for both the API and client:
+3. Install server dependencies:
 
-   ```bash
-   cd api
+   ```shell
    npm install
+   ```
+
+4. Navigate to the 'client' folder:
+
+   ```shell
    cd ../client
+   ```
+
+5. Install client dependencies:
+
+   ```shell
    npm install
    ```
 
-### Usage
+6. Start the server and client concurrently:
 
-1. Start the API server:
-
-   ```bash
-   cd api
-   npm start
+   ```shell
+   npm run dev
    ```
 
-2. Start the React app:
+### API Documentation
 
-   ```bash
-   cd client
-   npm start
-   ```
-
-3. Access the app in your browser at [http://localhost:3000](http://localhost:3000).
+For detailed information about the API and how to use it, refer to the [API Documentation](/api/README.md).
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please follow our [Contribution Guidelines](CONTRIBUTING.md).
+We welcome contributions to the Full-Stack Booking App. To contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Commit your changes and push to your fork.
+4. Create a pull request with a detailed description of your changes.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
 
----
+Happy booking!
+
+![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
+
+```
