@@ -1,7 +1,4 @@
-``markdown
 # Full-Stack Booking App
-
-![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 
 Welcome to the Full-Stack Booking App, where we've simplified the booking process for your business. Whether you run a restaurant, a salon, or any service-based business, our app empowers your customers to schedule appointments effortlessly.
 
@@ -100,5 +97,7 @@ We welcome contributions to the Full-Stack Booking App. To contribute, please fo
 
 This project is licensed under the MIT License. For more information, see the [LICENSE](/LICENSE) file.
 
+
+![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
+
 Happy booking!
-```
