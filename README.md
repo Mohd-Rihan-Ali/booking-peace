@@ -1,6 +1,8 @@
-# Full-Stack Booking App
+# Booking Peace
 
-Welcome to the Full-Stack Booking App, where we've simplified the booking process for your business. Whether you run a restaurant, a salon, or any service-based business, our app empowers your customers to schedule appointments effortlessly.
+Welcome to the Booking Peace, where we've simplified the booking process for your business. Whether you run a restaurant or hotel our app empowers your customers to book rooms effortlessly.
+
+
 
 ## Table of Contents
 
